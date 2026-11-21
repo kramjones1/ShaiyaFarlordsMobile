@@ -1,0 +1,79 @@
+[05:27:38] === 1/3  Android NDK r24.0.8215888 ===
+[05:27:38]     attempt 1: 0.0 MB on disk, resuming
+[05:28:49]     complete: 632.4 MB
+[05:28:49]   extracting NDK
+[05:30:10]   NDK extracted: 7284 files
+[05:30:10] === 2/3  platforms;android-35 + build-tools;35.0.0 + platform-tools ===
+[05:30:10]   installing: platform-tools, platforms;android-35, build-tools;35.0.0
+[05:30:11]     sdkmanager attempt 1
+[05:30:11]     still missing: platform-tools, platforms;android-35, build-tools;35.0.0
+[05:30:16]     sdkmanager attempt 2
+[05:30:16]     still missing: platform-tools, platforms;android-35, build-tools;35.0.0
+[05:30:26]     sdkmanager attempt 3
+[05:30:26]     still missing: platform-tools, platforms;android-35, build-tools;35.0.0
+[05:30:41]     sdkmanager attempt 4
+[05:30:41]     still missing: platform-tools, platforms;android-35, build-tools;35.0.0
+[05:31:01]     sdkmanager attempt 5
+[05:31:01]     still missing: platform-tools, platforms;android-35, build-tools;35.0.0
+[05:31:26]     sdkmanager attempt 6
+[05:31:26]     still missing: platform-tools, platforms;android-35, build-tools;35.0.0
+[05:31:56]     sdkmanager attempt 7
+[05:31:56]     still missing: platform-tools, platforms;android-35, build-tools;35.0.0
+[05:32:31]     sdkmanager attempt 8
+[05:32:32]     still missing: platform-tools, platforms;android-35, build-tools;35.0.0
+[05:33:12]     sdkmanager attempt 9
+[05:33:12]     still missing: platform-tools, platforms;android-35, build-tools;35.0.0
+[05:33:57]     sdkmanager attempt 10
+[05:33:57]     still missing: platform-tools, platforms;android-35, build-tools;35.0.0
+[05:34:47]     sdkmanager attempt 11
+[05:34:47]     still missing: platform-tools, platforms;android-35, build-tools;35.0.0
+[05:35:42]     sdkmanager attempt 12
+[05:35:42]     still missing: platform-tools, platforms;android-35, build-tools;35.0.0
+[05:36:42]     sdkmanager attempt 13
+[05:36:42]     still missing: platform-tools, platforms;android-35, build-tools;35.0.0
+[05:37:47]     sdkmanager attempt 14
+[05:37:47]     still missing: platform-tools, platforms;android-35, build-tools;35.0.0
+[05:38:57]     sdkmanager attempt 15
+[05:38:57]     still missing: platform-tools, platforms;android-35, build-tools;35.0.0
+[05:40:12] === 3/3  winlator source trees ===
+[05:40:12]   app: clone attempt 1
+[05:40:36]     failed, retrying
+[05:40:41]   app: clone attempt 2
+[05:42:06]     failed, retrying
+[05:42:16]   app: clone attempt 3
+[05:42:19]     failed, retrying
+[05:42:34]   app: clone attempt 4
+[05:42:36]     failed, retrying
+[05:42:56]   app: clone attempt 5
+[05:42:56]     failed, retrying
+[05:43:21]   app: clone attempt 6
+[05:43:21]     failed, retrying
+[05:43:51]   app: clone attempt 7
+[05:43:51]     failed, retrying
+[05:44:26]   app: clone attempt 8
+[05:44:26]     failed, retrying
+[05:45:50] === 1/3  Android NDK r24.0.8215888 ===
+[05:45:54]   NDK already extracted
+[05:45:54] === 2/3  platforms;android-35 + build-tools;35.0.0 + platform-tools ===
+[05:45:55]   installing: platform-tools, platforms;android-35, build-tools;35.0.0
+[05:45:55]   JAVA_HOME = D:\ShaiyaAPK\toolchain\jdk
+[05:45:55]     sdkmanager attempt 1
+[05:47:44]     all installed
+[05:47:44] === 3/3  winlator source trees ===
+[05:47:44]   app: clone attempt 1
+[05:51:46]     ok: 961 files
+[05:51:46]   gladio: clone attempt 1
+[05:51:48]     ok: 62 files
+[05:51:48]   vortek: clone attempt 1
+[05:51:50]     ok: 55 files
+[05:51:50]   resolving nested submodules inside app/gladio/vortek
+[05:51:50] === summary ===
+[05:51:50]   ok  platform-tools              16.7 MB  15 files
+[05:51:53]   ok  platforms\android-35        97.9 MB  11163 files
+[05:51:53]   ok  build-tools\35.0.0         138.2 MB  170 files
+[05:51:54]   ok  ndk\24.0.8215888         2,143.6 MB  7284 files
+[05:51:55]   ok  cmake\3.22.1                37.5 MB  2992 files
+[05:51:55]   src app        309.4 MB  961 files
+[05:51:55]   src gladio       1.7 MB  62 files
+[05:51:55]   src vortek       2.5 MB  55 files
+[05:51:55] Done.
